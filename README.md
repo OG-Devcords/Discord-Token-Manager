@@ -1,4 +1,3 @@
-```
 # Discord Token Manager
 
 This project is a simple web application that allows users to securely store and retrieve their Discord bot tokens using unique endpoints and passwords. It provides a secure way to manage Discord bot tokens without exposing them directly in code.
@@ -14,7 +13,6 @@ This project is a simple web application that allows users to securely store and
 ## Discord Community
 
 Join our Discord community for support and discussions: [Click Here](https://discord.gg/Pv8WgVQrwY) 🙂
-
 ## Features
 
 - Securely store Discord bot tokens using unique endpoints and passwords
@@ -74,5 +72,3 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE).
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out to [your-email@example.com].
-
-```

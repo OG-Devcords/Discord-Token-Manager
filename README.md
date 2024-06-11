@@ -4,11 +4,11 @@ This project is a simple web application that allows users to securely store and
 
 ## Repository Stats
 
-![GitHub Repo Stars](https://img.shields.io/github/stars/noreplyui5/Web-Terminal?style=for-the-badge)
-![GitHub Repo Forks](https://img.shields.io/github/forks/noreplyui5/Web-Terminal?style=for-the-badge)
-![GitHub Issues](https://img.shields.io/github/issues/noreplyui5/Web-Terminal?style=for-the-badge)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/noreplyui5/Web-Terminal?style=for-the-badge)
-![GitHub Pull Requests](https://img.shields.io/github/license/noreplyui5/Web-Terminal?style=for-the-badge)
+![GitHub Repo Stars](https://img.shields.io/github/stars/OG-Devcords/Discord-Token-Manager?style=for-the-badge)
+![GitHub Repo Forks](https://img.shields.io/github/forks/OG-Devcords/Discord-Token-Manager?style=for-the-badge)
+![GitHub Issues](https://img.shields.io/github/issues/OG-Devcords/Discord-Token-Manager?style=for-the-badge)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/OG-Devcords/Discord-Token-Manager?style=for-the-badge)
+![GitHub Pull Requests](https://img.shields.io/github/license/OG-Devcords/Discord-Token-Manager?style=for-the-badge)
 
 ## Discord Community
 

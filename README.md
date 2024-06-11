@@ -29,7 +29,6 @@ Check out the live preview of the application [here](https://secret-token-a5280d
 
 - [Node.js](https://nodejs.org/)
 - [MongoDB](https://www.mongodb.com/)
-- [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 
 ## Installation
 

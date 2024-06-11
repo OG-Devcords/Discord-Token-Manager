@@ -8,7 +8,7 @@ This project is a simple web application that allows users to securely store and
 ![GitHub Repo Forks](https://img.shields.io/github/forks/OG-Devcords/Discord-Token-Manager?style=for-the-badge)
 ![GitHub Issues](https://img.shields.io/github/issues/OG-Devcords/Discord-Token-Manager?style=for-the-badge)
 ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/OG-Devcords/Discord-Token-Manager?style=for-the-badge)
-![GitHub Pull Requests](https://img.shields.io/github/license/OG-Devcords/Discord-Token-Manager?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/OG-Devcords/Discord-Token-Manager?style=for-the-badge)
 
 ## Discord Community
 

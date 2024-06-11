@@ -68,7 +68,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE).
-
-## Contact
-
-If you have any questions or suggestions, feel free to reach out to [your-email@example.com].

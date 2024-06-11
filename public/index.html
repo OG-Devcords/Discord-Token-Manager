@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discord Token Manager</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Discord Token Manager</h1>
+        <form id="token-form">
+            <div class="form-group">
+                <label for="token">Discord Bot Token</label>
+                <input type="password" id="token" name="token" required>
+            </div>
+            <div class="form-group">
+                <label for="password">Password</label>
+                <input type="password" id="password" name="password" required>
+            </div>
+            <button type="submit">Generate Endpoint</button>
+        </form>
+        <div class="endpoint">
+            <h2>Your Endpoint</h2>
+            <p id="endpoint-url">N/A</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

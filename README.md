@@ -13,12 +13,23 @@ This project is a simple web application that allows users to securely store and
 ## Discord Community
 
 Join our Discord community for support and discussions: [Click Here](https://discord.gg/Pv8WgVQrwY) 🙂
+
 ## Features
 
 - Securely store Discord bot tokens using unique endpoints and passwords
 - Retrieve tokens by providing the correct endpoint and password
 - MongoDB integration for data storage
 - Express.js for server-side logic
+
+## Live Preview
+
+Check out the live preview of the application [here](https://secret-token-a5280d67c527.herokuapp.com/).
+
+## Prerequisites
+
+- [Node.js](https://nodejs.org/)
+- [MongoDB](https://www.mongodb.com/)
+- [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 
 ## Installation
 
